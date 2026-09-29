@@ -20,6 +20,65 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.04291419040347E-47" />
+      <entry key="MS500" value="4.0147973402123435E-10" />
+      <entry key="S2" value="0.004830335993597686" />
+      <entry key="S5" value="0.17077549293186806" />
+      <entry key="S10" value="0.763080510740341" />
+      <entry key="S30" value="3.4339325168166424" />
+      <entry key="S60" value="6.047228942710218" />
+      <entry key="M2" value="9.285343539152805" />
+      <entry key="M5" value="14.762682567922454" />
+      <entry key="M10" value="18.66429592351903" />
+      <entry key="M15" value="20.43337326225874" />
+      <entry key="M30" value="22.52220650910944" />
+      <entry key="H1" value="23.707575488830035" />
+      <entry key="H2" value="24.339735188493286" />
+      <entry key="H4" value="24.666266765181494" />
+      <entry key="D1" value="24.94387004906142" />
+      <entry key="W1" value="24.991968900225267" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0000000000117844" />
+      <entry key="S10" value="1.0000070917050587" />
+      <entry key="S30" value="1.0605190592482014" />
+      <entry key="S60" value="1.6964896216887908" />
+      <entry key="M2" value="3.8049665585349715" />
+      <entry key="M5" value="8.324992415640256" />
+      <entry key="M10" value="11.390699592643879" />
+      <entry key="M15" value="12.719647171883247" />
+      <entry key="M30" value="14.245098454396404" />
+      <entry key="H1" value="15.091583387403816" />
+      <entry key="H2" value="15.53774290883036" />
+      <entry key="H4" value="15.76681938805233" />
+      <entry key="D1" value="15.960848101361327" />
+      <entry key="W1" value="15.994399761694263" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.0729393813026518E-6" />
+      <entry key="MS500" value="0.06399043134145337" />
+      <entry key="S2" value="0.5059644865149929" />
+      <entry key="S5" value="0.8990766405513559" />
+      <entry key="S10" value="1.5646852322570102" />
+      <entry key="S30" value="4.357508206635773" />
+      <entry key="S60" value="7.636884142284064" />
+      <entry key="M2" value="13.002561861825878" />
+      <entry key="M5" value="23.02551420995134" />
+      <entry key="M10" value="30.014486728698675" />
+      <entry key="M15" value="33.12323563431069" />
+      <entry key="M30" value="36.75079820423006" />
+      <entry key="H1" value="38.79045327317812" />
+      <entry key="H2" value="39.87300551831914" />
+      <entry key="H4" value="40.4308190353601" />
+      <entry key="D1" value="40.904335938562994" />
+      <entry key="W1" value="40.986313952456314" />
+    </decayedShown>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -37,13 +96,23 @@
     "JUnit.ConditionalExercisesTests.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/mikel/projects/java-new-curriculum/software-dev-course-classes-and-objects-2/pom.xml",
+    "last_opened_file_path": "D:/LaunchCode/Assignment/software-dev-course-java-basics-3",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.side.proportion": "0.0",
+    "to.speed.mode.migration.done": "true"
   }
 }]]></component>
   <component name="RunManager">
@@ -61,6 +130,14 @@
         <item itemvalue="JUnit.ConditionalExercisesTests" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -89,6 +166,9 @@
     </task>
     <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Completed Initial Draft" />
